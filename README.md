@@ -1,6 +1,5 @@
 <h1 align="center"> 👋 Olá! Eu sou o Luis. </h1>
 
-- 🤖 Fazendo bot para o [Discord](https://discord.com/)
 - 👨‍💻 Foco em [Typescript](https://www.typescriptlang.org) e [JavaScript](https://www.javascript.com)
 - 🧪 Melhorando em [React](https://reactjs.org)
 ----
